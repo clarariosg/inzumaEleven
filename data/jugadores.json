@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mark Evans",
+        "equipo": "Raimon",
+        "posicion": "Portero",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Mano Celestial"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Capitán y portero del Raimon. Conocido por su entusiasmo y espíritu inquebrantable."
+    },
+    {
+        "id": 2,
+        "nombre": "Axel Blaze",
+        "equipo": "Raimon",
+        "posicion": "Delantero",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Tornado de Fuego"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "El delantero estrella del Raimon. Famoso por su disparo Tornado de Fuego."
+    }
+]
