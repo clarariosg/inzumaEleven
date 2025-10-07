@@ -1,0 +1,27 @@
+# ──────────────────────────────
+# IGNORAR ARCHIVOS DE PYTHON
+# ──────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ──────────────────────────────
+# IGNORAR ARCHIVOS DE NODE / REACT
+# ──────────────────────────────
+node_modules/
+dist/
+build/
+
+# ──────────────────────────────
+# ARCHIVOS DEL SISTEMA
+# ──────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ──────────────────────────────
+# VARIABLES DE ENTORNO
+# (contraseñas o claves API)
+# ──────────────────────────────
+.env
