@@ -2,6 +2,7 @@
     {
         "id": 1,
         "nombre": "Mark Evans",
+        "genero": "masculino",
         "equipo": "Raimon",
         "posicion": "Portero",
         "nacionalidad": "Japón",
@@ -9,11 +10,13 @@
             "Mano Celestial"
         ],
         "generacion": "Inazuma Eleven 1",
-        "descripcion": "Capitán y portero del Raimon. Conocido por su entusiasmo y espíritu inquebrantable."
+        "descripcion": "Capitán y portero del Raimon. Conocido por su entusiasmo y espíritu inquebrantable.",
+        "debut": "episodio 1"
     },
     {
         "id": 2,
         "nombre": "Axel Blaze",
+        "genero": "masculino",
         "equipo": "Raimon",
         "posicion": "Delantero",
         "nacionalidad": "Japón",
@@ -21,6 +24,263 @@
             "Tornado de Fuego"
         ],
         "generacion": "Inazuma Eleven 1",
-        "descripcion": "El delantero estrella del Raimon. Famoso por su disparo Tornado de Fuego."
+        "descripcion": "El delantero estrella del Raimon. Famoso por su disparo Tornado de Fuego.",
+        "debut": "episodio 2"
+    },
+    {
+        "id": 3,
+        "nombre": "Jude Sharp",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Centrocampista",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Remate Relámpago"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Ex Royal Academy, se une durante el Torneo de Fútbol Frontier.",
+        "debut": "episodio 3"
+    },
+    {
+        "id": 4,
+        "nombre": "Nathan Swift",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Entrada Huracán"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Defensa rápido. Proviene del club de atletismo.",
+        "debut": "episodio 3"
+    },
+    {
+        "id": 5,
+        "nombre": "Kevin Dragonfly",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Delantero",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Remate Dragón"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Orgulloso y fuerte, rival amistoso de Axel.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 6,
+        "nombre": "Erik Eagle",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Centrocampista",
+        "nacionalidad": "Estados Unidos",
+        "tecnicas": [
+            "Tiro Giratorio"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "",
+        "debut": "episodio 14"
+    },
+    {
+        "id": 7,
+        "nombre": "Bobby Shearer",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Barrido Defensivo"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Inicialmente, espía de la Royal Academy. Más tarde se une al Raimon.",
+        "debut": "episodio 7"
+    },
+    {
+        "id": 8,
+        "nombre": "Todd Ironside",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Corte Giratorio"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Sereno y pacífico, usa técnicas defensivas.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 9,
+        "nombre": "Steve Grim",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Centrocampista",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Disparo Rodante"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 10,
+        "nombre": "Maxwell Carson",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Centrocampista",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Pase Cruzado"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Tímido y poco visible.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 11,
+        "nombre": "Timmy Sanders",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Centrocampista",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Torbellino Dragón"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Cómico, suele actuar de analista o suplente.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 12,
+        "nombre": "Jim Wraith",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Giro Bobina"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 13,
+        "nombre": "Jack Wallside",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "El muro"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Defensa fuerte, pero miedoso.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 14,
+        "nombre": "Sam Kincaid",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Defensa",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Chut Granada"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 15,
+        "nombre": "Willy Glass",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Delantero",
+        "nacionalidad": "Japón",
+        "tecnicas": [
+            "Remate Willy"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 16,
+        "nombre": "Silvia Woods",
+        "genero": "femenino",
+        "equipo": "Raimon",
+        "posicion": "Manager",
+        "nacionalidad": "Japón",
+        "tecnicas": [],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Amiga de Mark y manager del equipo.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 17,
+        "nombre": "Nelly Raimon",
+        "genero": "femenino",
+        "equipo": "Raimon",
+        "posicion": "Apoyo administrativo",
+        "nacionalidad": "Japón",
+        "tecnicas": [],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Presidenta del consejo estudiante. Decidida y con gran confianza en si misma.",
+        "debut": "episodio 1"
+    },
+    {
+        "id": 18,
+        "nombre": "Celia Hills",
+        "genero": "femenino",
+        "equipo": "Raimon",
+        "posicion": "Reportera",
+        "nacionalidad": "Japón",
+        "tecnicas": [],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Inicialmente reportera, se une al equipo como manager.",
+        "debut": "episodio 4"
+    },
+    {
+        "id": 19,
+        "nombre": "Ray Dark",
+        "genero": "masculino",
+        "equipo": "Royal Academy",
+        "posicion": "Entrenador",
+        "nacionalidad": "Japón",
+        "tecnicas": [],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "El malo malísimo",
+        "debut": "episodio 3"
+    },
+    {
+        "id": 20,
+        "nombre": "Seymour Hillman",
+        "genero": "masculino",
+        "equipo": "Raimon",
+        "posicion": "Entrenador",
+        "nacionalidad": "Japón",
+        "tecnicas": [],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Entrenador y cocinero",
+        "debut": "episodio 3"
+    },
+    {
+        "id": 21,
+        "nombre": "Byron Love",
+        "genero": "masculino",
+        "equipo": "Zeus",
+        "posicion": "Delantero",
+        "nacionalidad": "Sur Coreano",
+        "tecnicas": [
+            "Hora Celestial"
+        ],
+        "generacion": "Inazuma Eleven 1",
+        "descripcion": "Capitán del equipo Zeus",
+        "debut": "episodio 24"
     }
 ]
